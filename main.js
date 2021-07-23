@@ -58,7 +58,7 @@ const scrollReveal = ScrollReveal({
 scrollReveal.reveal(
   `#home .image, #home .text,
   #about .image, #about .text,
-  #best header, #best .card,
+  #categories header, #categories .card,
   #foryou header, #foryou .foryou
   #contact .text, #contact .links,
   footer .brand, footer .social
